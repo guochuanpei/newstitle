@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="MyRelativeLayout">
+        <attr name="titlebar_name" format="string"></attr>
+        <attr name="right_iv" format="reference"></attr>
+        <attr name="right_text" format="string"></attr>
+        <attr name="right_iv_show" format="boolean"></attr>
+        <attr name="titlebar_name_size" format="dimension"></attr>
+    </declare-styleable>
+</resources>

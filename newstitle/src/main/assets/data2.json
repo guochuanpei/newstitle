@@ -1,0 +1,1535 @@
+﻿{
+    "data": [
+        {
+            "abstract": "每天发布有趣、有料的视频 欢迎订阅~~",
+            "action_extra": "{"channel_id": 3431225546}",
+            "action_list": [
+                {
+                    "action": 1,
+                    "desc": "",
+                    "extra": {}
+                },
+                {
+                    "action": 3,
+                    "desc": "",
+                    "extra": {}
+                },
+                {
+                    "action": 7,
+                    "desc": "",
+                    "extra": {}
+                },
+                {
+                    "action": 9,
+                    "desc": "",
+                    "extra": {}
+                }
+            ],
+            "aggr_type": 1,
+            "article_sub_type": 0,
+            "article_type": 0,
+            "article_url": "http://toutiao.com/group/6366155174235914497/",
+            "ban_comment": 0,
+            "behot_time": 1484364434,
+            "bury_count": 122,
+            "cell_flag": 11,
+            "cell_layout_style": 1,
+            "cell_type": 0,
+            "comment_count": 547,
+            "cursor": 1484364434999,
+            "digg_count": 1339,
+            "display_url": "http://toutiao.com/group/6366155174235914497/",
+            "filter_words": [
+                {
+                    "id": "8:0",
+                    "is_selected": false,
+                    "name": "重复推荐"
+                },
+                {
+                    "id": "9:1",
+                    "is_selected": false,
+                    "name": "视频质量差"
+                },
+                {
+                    "id": "5:824669446",
+                    "is_selected": false,
+                    "name": "来源:安安搞笑"
+                },
+                {
+                    "id": "6:584595",
+                    "is_selected": false,
+                    "name": "自由落体"
+                },
+                {
+                    "id": "6:534548",
+                    "is_selected": false,
+                    "name": "水球"
+                }
+            ],
+            "group_flags": 32832,
+            "group_id": 6366155174235914497,
+            "has_image": false,
+            "has_m3u8_video": 0,
+            "has_mp4_video": 0,
+            "has_video": true,
+            "hot": 0,
+            "ignore_web_transform": 1,
+            "image_list": [],
+            "is_subject": false,
+            "item_id": 6366156296797815297,
+            "item_version": 0,
+            "keywords": "视频,水球,自由落体",
+            "large_image_list": [
+                {
+                    "height": 326,
+                    "uri": "video1609/12f300097a977f35df02",
+                    "url": "http://p2.pstatp.com/video1609/12f300097a977f35df02",
+                    "url_list": [
+                        {
+                            "url": "http://p2.pstatp.com/video1609/12f300097a977f35df02"
+                        },
+                        {
+                            "url": "http://p4.pstatp.com/video1609/12f300097a977f35df02"
+                        },
+                        {
+                            "url": "http://p.pstatp.com/video1609/12f300097a977f35df02"
+                        }
+                    ],
+                    "width": 580
+                }
+            ],
+            "level": 0,
+            "like_count": 1339,
+            "media_info": {
+                "avatar_url": "http://p9.pstatp.com/large/ef60016ebfc17b5e493",
+                "follow": false,
+                "is_star_user": false,
+                "media_id": 52476785356,
+                "name": "安安搞笑",
+                "recommend_reason": "",
+                "recommend_type": 0,
+                "user_id": 52475667926,
+                "user_verified": false,
+                "verified_content": ""
+            },
+            "media_name": "安安搞笑",
+            "middle_image": {
+                "height": 360,
+                "uri": "list/12f300097a977f35df02",
+                "url": "http://p2.pstatp.com/list/12f300097a977f35df02",
+                "url_list": [
+                    {
+                        "url": "http://p2.pstatp.com/list/12f300097a977f35df02"
+                    },
+                    {
+                        "url": "http://p4.pstatp.com/list/12f300097a977f35df02"
+                    },
+                    {
+                        "url": "http://p.pstatp.com/list/12f300097a977f35df02"
+                    }
+                ],
+                "width": 640
+            },
+            "preload_web": 0,
+            "publish_time": 1482236268,
+            "read_count": 326266,
+            "repin_count": 3118,
+            "rid": "20170114112714010003048160606EC4",
+            "share_url": "http://toutiao.com/a6366155174235914497/?iid=3839760160&app=news_article",
+            "show_portrait": false,
+            "show_portrait_article": false,
+            "source": "安安搞笑",
+            "source_icon_style": 5,
+            "source_open_url": "sslocal://media_account?media_id=52476785356",
+            "tag": "video_society",
+            "tag_id": 6366155174235914497,
+            "tip": 0,
+            "title": "Ben哥哥整蛊弟弟-自由落体的水球炸弹~心疼弟弟",
+            "url": "http://toutiao.com/group/6366155174235914497/",
+            "user_info": {
+                "avatar_url": "http://p9.pstatp.com/thumb/ef60016ebfc17b5e493",
+                "description": "",
+                "follow": false,
+                "follower_count": 0,
+                "name": "安安搞笑",
+                "user_id": 52475667926,
+                "user_verified": false,
+                "verified_content": ""
+            },
+            "user_repin": 0,
+            "user_verified": 0,
+            "verified_content": "",
+            "video_detail_info": {
+                "detail_video_large_image": {
+                    "height": 326,
+                    "uri": "video1609/12f300097a977f35df02",
+                    "url": "http://p2.pstatp.com/video1609/12f300097a977f35df02",
+                    "url_list": [
+                        {
+                            "url": "http://p2.pstatp.com/video1609/12f300097a977f35df02"
+                        },
+                        {
+                            "url": "http://p4.pstatp.com/video1609/12f300097a977f35df02"
+                        },
+                        {
+                            "url": "http://p.pstatp.com/video1609/12f300097a977f35df02"
+                        }
+                    ],
+                    "width": 580
+                },
+                "direct_play": 1,
+                "group_flags": 32832,
+                "show_pgc_subscribe": 1,
+                "video_id": "a30bcb1115d94dc09846d43c29b0f5b4",
+                "video_preloading_flag": 0,
+                "video_type": 0,
+                "video_watch_count": 326982,
+                "video_watching_count": 0
+            },
+            "video_duration": 124,
+            "video_id": "a30bcb1115d94dc09846d43c29b0f5b4",
+            "video_style": 0
+        },
+        {
+            "abstract": "",
+            "action_extra": "{"channel_id": 3431225546}",
+            "action_list": [
+                {
+                    "action": 1,
+                    "desc": "",
+                    "extra": {}
+                },
+                {
+                    "action": 3,
+                    "desc": "",
+                    "extra": {}
+                },
+                {
+                    "action": 7,
+                    "desc": "",
+                    "extra": {}
+                },
+                {
+                    "action": 9,
+                    "desc": "",
+                    "extra": {}
+                }
+            ],
+            "aggr_type": 1,
+            "article_sub_type": 0,
+            "article_type": 0,
+            "article_url": "http://toutiao.com/group/6365384913503388161/",
+            "ban_comment": 0,
+            "behot_time": 1484364433,
+            "bury_count": 97,
+            "cell_flag": 11,
+            "cell_layout_style": 1,
+            "cell_type": 0,
+            "comment_count": 80,
+            "cursor": 1484364433999,
+            "digg_count": 215,
+            "display_url": "http://toutiao.com/group/6365384913503388161/",
+            "filter_words": [
+                {
+                    "id": "8:0",
+                    "is_selected": false,
+                    "name": "重复推荐"
+                },
+                {
+                    "id": "9:1",
+                    "is_selected": false,
+                    "name": "视频质量差"
+                },
+                {
+                    "id": "5:577257219",
+                    "is_selected": false,
+                    "name": "来源:麦芽广场舞"
+                },
+                {
+                    "id": "6:2434512",
+                    "is_selected": false,
+                    "name": "广场舞"
+                }
+            ],
+            "group_flags": 32832,
+            "group_id": 6365384913503388161,
+            "has_image": false,
+            "has_m3u8_video": 0,
+            "has_mp4_video": 0,
+            "has_video": true,
+            "hot": 0,
+            "ignore_web_transform": 1,
+            "image_list": [],
+            "is_subject": false,
+            "item_id": 6365384913503388161,
+            "item_version": 0,
+            "large_image_list": [
+                {
+                    "height": 326,
+                    "uri": "video1609/1208000a6646b34ecf99",
+                    "url": "http://p3.pstatp.com/video1609/1208000a6646b34ecf99",
+                    "url_list": [
+                        {
+                            "url": "http://p3.pstatp.com/video1609/1208000a6646b34ecf99"
+                        },
+                        {
+                            "url": "http://p6.pstatp.com/video1609/1208000a6646b34ecf99"
+                        },
+                        {
+                            "url": "http://p.pstatp.com/video1609/1208000a6646b34ecf99"
+                        }
+                    ],
+                    "width": 580
+                }
+            ],
+            "level": 0,
+            "like_count": 215,
+            "media_info": {
+                "avatar_url": "http://p1.pstatp.com/large/ef60009dd83b6032a08",
+                "follow": false,
+                "is_star_user": false,
+                "media_id": 50074180671,
+                "name": "麦芽广场舞",
+                "recommend_reason": "",
+                "recommend_type": 0,
+                "user_id": 50054774414,
+                "user_verified": false,
+                "verified_content": ""
+            },
+            "media_name": "麦芽广场舞",
+            "middle_image": {
+                "height": 360,
+                "uri": "list/1208000a6646b34ecf99",
+                "url": "http://p3.pstatp.com/list/1208000a6646b34ecf99",
+                "url_list": [
+                    {
+                        "url": "http://p3.pstatp.com/list/1208000a6646b34ecf99"
+                    },
+                    {
+                        "url": "http://p6.pstatp.com/list/1208000a6646b34ecf99"
+                    },
+                    {
+                        "url": "http://p.pstatp.com/list/1208000a6646b34ecf99"
+                    }
+                ],
+                "width": 640
+            },
+            "preload_web": 0,
+            "publish_time": 1482056699,
+            "read_count": 185599,
+            "repin_count": 2212,
+            "rid": "20170114112714010003048160606EC4",
+            "share_url": "http://toutiao.com/a6365384913503388161/?iid=3839760160&app=news_article",
+            "show_portrait": false,
+            "show_portrait_article": false,
+            "source": "麦芽广场舞",
+            "source_icon_style": 5,
+            "source_open_url": "sslocal://media_account?media_id=50074180671",
+            "tag": "video_life",
+            "tag_id": 6365384913503388161,
+            "tip": 0,
+            "title": "一群打扮入时的年轻人跳广场舞 很简单的16步恰恰对跳 歌好听",
+            "url": "http://toutiao.com/group/6365384913503388161/",
+            "user_info": {
+                "avatar_url": "http://p3.pstatp.com/thumb/ef60009dd83b6032a08",
+                "description": "",
+                "follow": false,
+                "follower_count": 0,
+                "name": "麦芽广场舞",
+                "user_id": 50054774414,
+                "user_verified": false,
+                "verified_content": ""
+            },
+            "user_repin": 0,
+            "user_verified": 0,
+            "verified_content": "",
+            "video_detail_info": {
+                "detail_video_large_image": {
+                    "height": 326,
+                    "uri": "video1609/1208000a6646b34ecf99",
+                    "url": "http://p3.pstatp.com/video1609/1208000a6646b34ecf99",
+                    "url_list": [
+                        {
+                            "url": "http://p3.pstatp.com/video1609/1208000a6646b34ecf99"
+                        },
+                        {
+                            "url": "http://p6.pstatp.com/video1609/1208000a6646b34ecf99"
+                        },
+                        {
+                            "url": "http://p.pstatp.com/video1609/1208000a6646b34ecf99"
+                        }
+                    ],
+                    "width": 580
+                },
+                "direct_play": 1,
+                "group_flags": 32832,
+                "show_pgc_subscribe": 1,
+                "video_id": "8a8c4c54c539432bb9bd40c1fc392c4a",
+                "video_preloading_flag": 0,
+                "video_type": 0,
+                "video_watch_count": 389946,
+                "video_watching_count": 0
+            },
+            "video_duration": 42,
+            "video_id": "8a8c4c54c539432bb9bd40c1fc392c4a",
+            "video_style": 0
+        },
+        {
+            "abstract": "范伟跟人吃饭要提成，和美女谈“原生态”，套路深",
+            "action_extra": "{"channel_id": 3431225546}",
+            "action_list": [
+                {
+                    "action": 1,
+                    "desc": "",
+                    "extra": {}
+                },
+                {
+                    "action": 3,
+                    "desc": "",
+                    "extra": {}
+                },
+                {
+                    "action": 7,
+                    "desc": "",
+                    "extra": {}
+                },
+                {
+                    "action": 9,
+                    "desc": "",
+                    "extra": {}
+                }
+            ],
+            "aggr_type": 1,
+            "article_sub_type": 0,
+            "article_type": 0,
+            "article_url": "http://toutiao.com/group/6374979086732755457/",
+            "ban_comment": 0,
+            "behot_time": 1484364433,
+            "bury_count": 0,
+            "cell_flag": 11,
+            "cell_layout_style": 1,
+            "cell_type": 0,
+            "comment_count": 1,
+            "cursor": 1484364433998,
+            "digg_count": 1,
+            "display_url": "http://toutiao.com/group/6374979086732755457/",
+            "filter_words": [
+                {
+                    "id": "8:0",
+                    "is_selected": false,
+                    "name": "重复推荐"
+                },
+                {
+                    "id": "9:1",
+                    "is_selected": false,
+                    "name": "视频质量差"
+                },
+                {
+                    "id": "5:559299473",
+                    "is_selected": false,
+                    "name": "来源:阿图"
+                },
+                {
+                    "id": "6:47900",
+                    "is_selected": false,
+                    "name": "范伟"
+                },
+                {
+                    "id": "6:16087",
+                    "is_selected": false,
+                    "name": "美女"
+                }
+            ],
+            "group_flags": 32832,
+            "group_id": 6374979086732755457,
+            "has_image": false,
+            "has_m3u8_video": 0,
+            "has_mp4_video": 0,
+            "has_video": true,
+            "hot": 0,
+            "ignore_web_transform": 1,
+            "image_list": [],
+            "is_subject": false,
+            "item_id": 6374979086732755457,
+            "item_version": 0,
+            "keywords": "原生态,美女,范伟",
+            "large_image_list": [
+                {
+                    "height": 326,
+                    "uri": "video1609/1539000142f95ecb0307",
+                    "url": "http://p2.pstatp.com/video1609/1539000142f95ecb0307",
+                    "url_list": [
+                        {
+                            "url": "http://p2.pstatp.com/video1609/1539000142f95ecb0307"
+                        },
+                        {
+                            "url": "http://p4.pstatp.com/video1609/1539000142f95ecb0307"
+                        },
+                        {
+                            "url": "http://p.pstatp.com/video1609/1539000142f95ecb0307"
+                        }
+                    ],
+                    "width": 580
+                }
+            ],
+            "level": 0,
+            "like_count": 1,
+            "media_info": {
+                "avatar_url": "http://p3.pstatp.com/large/d29000e5c231670ddd7",
+                "follow": false,
+                "is_star_user": false,
+                "media_id": 6963060011,
+                "name": "阿图",
+                "recommend_reason": "",
+                "recommend_type": 0,
+                "user_id": 6962447923,
+                "user_verified": false,
+                "verified_content": ""
+            },
+            "media_name": "阿图",
+            "middle_image": {
+                "height": 270,
+                "uri": "list/1539000142f95ecb0307",
+                "url": "http://p2.pstatp.com/list/1539000142f95ecb0307",
+                "url_list": [
+                    {
+                        "url": "http://p2.pstatp.com/list/1539000142f95ecb0307"
+                    },
+                    {
+                        "url": "http://p4.pstatp.com/list/1539000142f95ecb0307"
+                    },
+                    {
+                        "url": "http://p.pstatp.com/list/1539000142f95ecb0307"
+                    }
+                ],
+                "width": 480
+            },
+            "preload_web": 0,
+            "publish_time": 1484359753,
+            "read_count": 205,
+            "repin_count": 1,
+            "rid": "20170114112714010003048160606EC4",
+            "share_url": "http://toutiao.com/a6374979086732755457/?iid=3839760160&app=news_article",
+            "show_portrait": false,
+            "show_portrait_article": false,
+            "source": "阿图",
+            "source_icon_style": 5,
+            "source_open_url": "sslocal://media_account?media_id=6963060011",
+            "tag": "news",
+            "tag_id": 6374979086732755457,
+            "tip": 0,
+            "title": "范伟跟人吃饭要提成，和美女谈“原生态”",
+            "url": "http://toutiao.com/group/6374979086732755457/",
+            "user_info": {
+                "avatar_url": "http://p3.pstatp.com/thumb/d29000e5c231670ddd7",
+                "description": "",
+                "follow": false,
+                "follower_count": 0,
+                "name": "阿图",
+                "user_id": 6962447923,
+                "user_verified": false,
+                "verified_content": ""
+            },
+            "user_repin": 0,
+            "user_verified": 0,
+            "verified_content": "",
+            "video_detail_info": {
+                "detail_video_large_image": {
+                    "height": 326,
+                    "uri": "video1609/1539000142f95ecb0307",
+                    "url": "http://p2.pstatp.com/video1609/1539000142f95ecb0307",
+                    "url_list": [
+                        {
+                            "url": "http://p2.pstatp.com/video1609/1539000142f95ecb0307"
+                        },
+                        {
+                            "url": "http://p4.pstatp.com/video1609/1539000142f95ecb0307"
+                        },
+                        {
+                            "url": "http://p.pstatp.com/video1609/1539000142f95ecb0307"
+                        }
+                    ],
+                    "width": 580
+                },
+                "direct_play": 1,
+                "group_flags": 32832,
+                "show_pgc_subscribe": 1,
+                "video_id": "31d80cfbae7c437aa31fed095f862800",
+                "video_preloading_flag": 0,
+                "video_type": 0,
+                "video_watch_count": 280,
+                "video_watching_count": 0
+            },
+            "video_duration": 89,
+            "video_id": "31d80cfbae7c437aa31fed095f862800",
+            "video_style": 0
+        },
+        {
+            "abstract": "周杰伦近日在香港红馆举行演唱会，吸引不少明星、名人前往欣赏。赌王何鸿燊三房千金何超莲与姐姐何超云及好友马天佑也前往一睹杰伦风采，更幸运地被周杰伦选中合唱情歌《甜甜的》。当时在台上的周董主动同超莲打招呼：「你好！」脸都红了的超莲开心到不停笑，想讲普通话却变广东话：「我好紧张！",
+            "action_extra": "{"channel_id": 3431225546}",
+            "action_list": [
+                {
+                    "action": 1,
+                    "desc": "",
+                    "extra": {}
+                },
+                {
+                    "action": 3,
+                    "desc": "",
+                    "extra": {}
+                },
+                {
+                    "action": 7,
+                    "desc": "",
+                    "extra": {}
+                },
+                {
+                    "action": 9,
+                    "desc": "",
+                    "extra": {}
+                }
+            ],
+            "aggr_type": 1,
+            "article_sub_type": 0,
+            "article_type": 0,
+            "article_url": "http://toutiao.com/group/6374264472337580289/",
+            "ban_comment": 0,
+            "behot_time": 1484364433,
+            "bury_count": 14,
+            "cell_flag": 11,
+            "cell_layout_style": 1,
+            "cell_type": 0,
+            "comment_count": 181,
+            "cursor": 1484364433997,
+            "digg_count": 126,
+            "display_url": "http://toutiao.com/group/6374264472337580289/",
+            "filter_words": [
+                {
+                    "id": "8:0",
+                    "is_selected": false,
+                    "name": "重复推荐"
+                },
+                {
+                    "id": "9:1",
+                    "is_selected": false,
+                    "name": "视频质量差"
+                },
+                {
+                    "id": "5:9338613",
+                    "is_selected": false,
+                    "name": "来源:HKChannel"
+                },
+                {
+                    "id": "6:2404024",
+                    "is_selected": false,
+                    "name": "赌王"
+                },
+                {
+                    "id": "6:16281",
+                    "is_selected": false,
+                    "name": "周杰伦"
+                }
+            ],
+            "gallary_image_count": 3,
+            "group_flags": 32832,
+            "group_id": 6374264472337580289,
+            "has_image": true,
+            "has_m3u8_video": 0,
+            "has_mp4_video": 0,
+            "has_video": true,
+            "hot": 0,
+            "ignore_web_transform": 1,
+            "image_list": [],
+            "is_subject": false,
+            "item_id": 6374267428859281922,
+            "item_version": 0,
+            "keywords": "何超莲,马天佑,何超云,周杰伦,演唱会",
+            "large_image_list": [
+                {
+                    "height": 326,
+                    "uri": "video1609/14d000110f0e7564f1fd",
+                    "url": "http://p3.pstatp.com/video1609/14d000110f0e7564f1fd",
+                    "url_list": [
+                        {
+                            "url": "http://p3.pstatp.com/video1609/14d000110f0e7564f1fd"
+                        },
+                        {
+                            "url": "http://p6.pstatp.com/video1609/14d000110f0e7564f1fd"
+                        },
+                        {
+                            "url": "http://p.pstatp.com/video1609/14d000110f0e7564f1fd"
+                        }
+                    ],
+                    "width": 580
+                }
+            ],
+            "level": 0,
+            "like_count": 126,
+            "media_info": {
+                "avatar_url": "http://p2.pstatp.com/large/8138/1753713918",
+                "follow": false,
+                "is_star_user": false,
+                "media_id": 5502884147,
+                "name": "HKChannel",
+                "recommend_reason": "",
+                "recommend_type": 0,
+                "user_id": 3430169982,
+                "user_verified": false,
+                "verified_content": ""
+            },
+            "media_name": "HKChannel",
+            "middle_image": {
+                "height": 281,
+                "uri": "list/153300040322fb218725",
+                "url": "http://p7.pstatp.com/list/153300040322fb218725",
+                "url_list": [
+                    {
+                        "url": "http://p7.pstatp.com/list/153300040322fb218725"
+                    },
+                    {
+                        "url": "http://p4.pstatp.com/list/153300040322fb218725"
+                    },
+                    {
+                        "url": "http://p.pstatp.com/list/153300040322fb218725"
+                    }
+                ],
+                "width": 500
+            },
+            "preload_web": 0,
+            "publish_time": 1484124788,
+            "read_count": 67039,
+            "repin_count": 566,
+            "rid": "20170114112714010003048160606EC4",
+            "share_url": "http://toutiao.com/a6374264472337580289/?iid=3839760160&app=news_article",
+            "show_portrait": false,
+            "show_portrait_article": false,
+            "source": "HKChannel",
+            "source_icon_style": 1,
+            "source_open_url": "sslocal://media_account?media_id=5502884147",
+            "tag": "video_voice",
+            "tag_id": 6374264472337580289,
+            "tip": 0,
+            "title": "赌王千金与周杰伦合唱情歌：这一辈子也不会忘的甜甜的！",
+            "url": "http://toutiao.com/group/6374264472337580289/",
+            "user_info": {
+                "avatar_url": "http://p3.pstatp.com/thumb/8138/1753713918",
+                "description": "",
+                "follow": false,
+                "follower_count": 0,
+                "name": "HKChannel",
+                "user_id": 3430169982,
+                "user_verified": false,
+                "verified_content": ""
+            },
+            "user_repin": 0,
+            "user_verified": 0,
+            "verified_content": "",
+            "video_detail_info": {
+                "detail_video_large_image": {
+                    "height": 326,
+                    "uri": "video1609/14d000110f0e7564f1fd",
+                    "url": "http://p3.pstatp.com/video1609/14d000110f0e7564f1fd",
+                    "url_list": [
+                        {
+                            "url": "http://p3.pstatp.com/video1609/14d000110f0e7564f1fd"
+                        },
+                        {
+                            "url": "http://p6.pstatp.com/video1609/14d000110f0e7564f1fd"
+                        },
+                        {
+                            "url": "http://p.pstatp.com/video1609/14d000110f0e7564f1fd"
+                        }
+                    ],
+                    "width": 580
+                },
+                "direct_play": 1,
+                "group_flags": 32832,
+                "show_pgc_subscribe": 1,
+                "video_id": "e13ee9527f1b40afad3753e7ad60501a",
+                "video_preloading_flag": 0,
+                "video_type": 0,
+                "video_watch_count": 262904,
+                "video_watching_count": 0
+            },
+            "video_duration": 60,
+            "video_id": "e13ee9527f1b40afad3753e7ad60501a",
+            "video_style": 0
+        },
+        {
+            "abstract": "",
+            "action_extra": "{"channel_id": 3431225546}",
+            "action_list": [
+                {
+                    "action": 1,
+                    "desc": "",
+                    "extra": {}
+                },
+                {
+                    "action": 3,
+                    "desc": "",
+                    "extra": {}
+                },
+                {
+                    "action": 7,
+                    "desc": "",
+                    "extra": {}
+                },
+                {
+                    "action": 9,
+                    "desc": "",
+                    "extra": {}
+                }
+            ],
+            "aggr_type": 1,
+            "article_sub_type": 0,
+            "article_type": 0,
+            "article_url": "http://toutiao.com/group/6371977084473967106/",
+            "ban_comment": 0,
+            "behot_time": 1484364433,
+            "bury_count": 43,
+            "cell_flag": 11,
+            "cell_layout_style": 1,
+            "cell_type": 0,
+            "comment_count": 163,
+            "cursor": 1484364433996,
+            "digg_count": 186,
+            "display_url": "http://toutiao.com/group/6371977084473967106/",
+            "filter_words": [
+                {
+                    "id": "8:0",
+                    "is_selected": false,
+                    "name": "重复推荐"
+                },
+                {
+                    "id": "9:1",
+                    "is_selected": false,
+                    "name": "视频质量差"
+                },
+                {
+                    "id": "5:163062373",
+                    "is_selected": false,
+                    "name": "来源:娱目八卦"
+                },
+                {
+                    "id": "6:15826",
+                    "is_selected": false,
+                    "name": "日本"
+                },
+                {
+                    "id": "6:71861",
+                    "is_selected": false,
+                    "name": "企鹅"
+                }
+            ],
+            "group_flags": 32832,
+            "group_id": 6371977084473967106,
+            "has_image": false,
+            "has_m3u8_video": 0,
+            "has_mp4_video": 0,
+            "has_video": true,
+            "hot": 0,
+            "ignore_web_transform": 1,
+            "image_list": [],
+            "is_subject": false,
+            "item_id": 6371977084473967106,
+            "item_version": 0,
+            "large_image_list": [
+                {
+                    "height": 326,
+                    "uri": "video1609/149b0006f1b0e56b9ad0",
+                    "url": "http://p3.pstatp.com/video1609/149b0006f1b0e56b9ad0",
+                    "url_list": [
+                        {
+                            "url": "http://p3.pstatp.com/video1609/149b0006f1b0e56b9ad0"
+                        },
+                        {
+                            "url": "http://p6.pstatp.com/video1609/149b0006f1b0e56b9ad0"
+                        },
+                        {
+                            "url": "http://p.pstatp.com/video1609/149b0006f1b0e56b9ad0"
+                        }
+                    ],
+                    "width": 580
+                }
+            ],
+            "level": 0,
+            "like_count": 186,
+            "media_info": {
+                "avatar_url": "http://p9.pstatp.com/large/d2a0015d4ee9071c589",
+                "follow": false,
+                "is_star_user": false,
+                "media_id": 51117674962,
+                "name": "娱目八卦",
+                "recommend_reason": "",
+                "recommend_type": 0,
+                "user_id": 51117674962,
+                "user_verified": false,
+                "verified_content": ""
+            },
+            "media_name": "娱目八卦",
+            "middle_image": {
+                "height": 360,
+                "uri": "list/149b0006f1b0e56b9ad0",
+                "url": "http://p3.pstatp.com/list/149b0006f1b0e56b9ad0",
+                "url_list": [
+                    {
+                        "url": "http://p3.pstatp.com/list/149b0006f1b0e56b9ad0"
+                    },
+                    {
+                        "url": "http://p6.pstatp.com/list/149b0006f1b0e56b9ad0"
+                    },
+                    {
+                        "url": "http://p.pstatp.com/list/149b0006f1b0e56b9ad0"
+                    }
+                ],
+                "width": 640
+            },
+            "preload_web": 0,
+            "publish_time": 1483597860,
+            "read_count": 33721,
+            "repin_count": 296,
+            "rid": "20170114112714010003048160606EC4",
+            "share_url": "http://toutiao.com/a6371977084473967106/?iid=3839760160&app=news_article",
+            "show_portrait": false,
+            "show_portrait_article": false,
+            "source": "娱目八卦",
+            "source_icon_style": 5,
+            "source_open_url": "sslocal://media_account?media_id=51117674962",
+            "tag": "news_pet",
+            "tag_id": 6371977084473967106,
+            "tip": 0,
+            "title": "日本一只神奇的企鹅自己背着包上街买鱼吃",
+            "url": "http://toutiao.com/group/6371977084473967106/",
+            "user_info": {
+                "avatar_url": "http://p9.pstatp.com/thumb/d2a0015d4ee9071c589",
+                "description": "",
+                "follow": false,
+                "follower_count": 0,
+                "name": "娱目八卦",
+                "user_id": 51117674962,
+                "user_verified": false,
+                "verified_content": ""
+            },
+            "user_repin": 0,
+            "user_verified": 0,
+            "verified_content": "",
+            "video_detail_info": {
+                "detail_video_large_image": {
+                    "height": 326,
+                    "uri": "video1609/149b0006f1b0e56b9ad0",
+                    "url": "http://p3.pstatp.com/video1609/149b0006f1b0e56b9ad0",
+                    "url_list": [
+                        {
+                            "url": "http://p3.pstatp.com/video1609/149b0006f1b0e56b9ad0"
+                        },
+                        {
+                            "url": "http://p6.pstatp.com/video1609/149b0006f1b0e56b9ad0"
+                        },
+                        {
+                            "url": "http://p.pstatp.com/video1609/149b0006f1b0e56b9ad0"
+                        }
+                    ],
+                    "width": 580
+                },
+                "direct_play": 1,
+                "group_flags": 32832,
+                "show_pgc_subscribe": 1,
+                "video_id": "9ad8143c3c3d4f4b96c5d7909776b6a2",
+                "video_preloading_flag": 0,
+                "video_type": 0,
+                "video_watch_count": 119550,
+                "video_watching_count": 0
+            },
+            "video_duration": 75,
+            "video_id": "9ad8143c3c3d4f4b96c5d7909776b6a2",
+            "video_style": 0
+        },
+        {
+            "abstract": "",
+            "action_extra": "{"channel_id": 3431225546}",
+            "action_list": [
+                {
+                    "action": 1,
+                    "desc": "",
+                    "extra": {}
+                },
+                {
+                    "action": 3,
+                    "desc": "",
+                    "extra": {}
+                },
+                {
+                    "action": 7,
+                    "desc": "",
+                    "extra": {}
+                },
+                {
+                    "action": 9,
+                    "desc": "",
+                    "extra": {}
+                }
+            ],
+            "aggr_type": 1,
+            "article_sub_type": 0,
+            "article_type": 0,
+            "article_url": "http://toutiao.com/group/6366158475973705985/",
+            "ban_comment": 0,
+            "behot_time": 1484364432,
+            "bury_count": 20,
+            "cell_flag": 11,
+            "cell_layout_style": 1,
+            "cell_type": 0,
+            "comment_count": 48,
+            "cursor": 1484364432999,
+            "digg_count": 136,
+            "display_url": "http://toutiao.com/group/6366158475973705985/",
+            "filter_words": [
+                {
+                    "id": "8:0",
+                    "is_selected": false,
+                    "name": "重复推荐"
+                },
+                {
+                    "id": "9:1",
+                    "is_selected": false,
+                    "name": "视频质量差"
+                },
+                {
+                    "id": "5:605227142",
+                    "is_selected": false,
+                    "name": "来源:嘲笑与批评"
+                },
+                {
+                    "id": "6:126256",
+                    "is_selected": false,
+                    "name": "田震"
+                },
+                {
+                    "id": "6:65021314",
+                    "is_selected": false,
+                    "name": "干杯朋友"
+                }
+            ],
+            "group_flags": 32832,
+            "group_id": 6366158475973705985,
+            "has_image": false,
+            "has_m3u8_video": 0,
+            "has_mp4_video": 0,
+            "has_video": true,
+            "hot": 0,
+            "ignore_web_transform": 1,
+            "image_list": [],
+            "is_subject": false,
+            "item_id": 6366159690295935490,
+            "item_version": 0,
+            "large_image_list": [
+                {
+                    "height": 326,
+                    "uri": "video1609/12f2000877db28137739",
+                    "url": "http://p1.pstatp.com/video1609/12f2000877db28137739",
+                    "url_list": [
+                        {
+                            "url": "http://p1.pstatp.com/video1609/12f2000877db28137739"
+                        },
+                        {
+                            "url": "http://p4.pstatp.com/video1609/12f2000877db28137739"
+                        },
+                        {
+                            "url": "http://p.pstatp.com/video1609/12f2000877db28137739"
+                        }
+                    ],
+                    "width": 580
+                }
+            ],
+            "level": 0,
+            "like_count": 136,
+            "media_info": {
+                "avatar_url": "http://p1.pstatp.com/large/d290014103033d933bf",
+                "follow": false,
+                "is_star_user": false,
+                "media_id": 51055477145,
+                "name": "嘲笑与批评",
+                "recommend_reason": "",
+                "recommend_type": 0,
+                "user_id": 51056174322,
+                "user_verified": false,
+                "verified_content": ""
+            },
+            "media_name": "嘲笑与批评",
+            "middle_image": {
+                "height": 357,
+                "uri": "list/12f2000877db28137739",
+                "url": "http://p1.pstatp.com/list/12f2000877db28137739",
+                "url_list": [
+                    {
+                        "url": "http://p1.pstatp.com/list/12f2000877db28137739"
+                    },
+                    {
+                        "url": "http://p4.pstatp.com/list/12f2000877db28137739"
+                    },
+                    {
+                        "url": "http://p.pstatp.com/list/12f2000877db28137739"
+                    }
+                ],
+                "width": 636
+            },
+            "preload_web": 0,
+            "publish_time": 1482237058,
+            "read_count": 117839,
+            "repin_count": 361,
+            "rid": "20170114112714010003048160606EC4",
+            "share_url": "http://toutiao.com/a6366158475973705985/?iid=3839760160&app=news_article",
+            "show_portrait": false,
+            "show_portrait_article": false,
+            "source": "嘲笑与批评",
+            "source_icon_style": 1,
+            "source_open_url": "sslocal://media_account?media_id=51055477145",
+            "tag": "video_voice",
+            "tag_id": 6366158475973705985,
+            "tip": 0,
+            "title": "山东女子模仿田震《干杯朋友》一开口惊艳全场，太好听了！",
+            "url": "http://toutiao.com/group/6366158475973705985/",
+            "user_info": {
+                "avatar_url": "http://p3.pstatp.com/thumb/d290014103033d933bf",
+                "description": "",
+                "follow": false,
+                "follower_count": 0,
+                "name": "嘲笑与批评",
+                "user_id": 51056174322,
+                "user_verified": false,
+                "verified_content": ""
+            },
+            "user_repin": 0,
+            "user_verified": 0,
+            "verified_content": "",
+            "video_detail_info": {
+                "detail_video_large_image": {
+                    "height": 326,
+                    "uri": "video1609/12f2000877db28137739",
+                    "url": "http://p1.pstatp.com/video1609/12f2000877db28137739",
+                    "url_list": [
+                        {
+                            "url": "http://p1.pstatp.com/video1609/12f2000877db28137739"
+                        },
+                        {
+                            "url": "http://p4.pstatp.com/video1609/12f2000877db28137739"
+                        },
+                        {
+                            "url": "http://p.pstatp.com/video1609/12f2000877db28137739"
+                        }
+                    ],
+                    "width": 580
+                },
+                "direct_play": 1,
+                "group_flags": 32832,
+                "show_pgc_subscribe": 1,
+                "video_id": "f52e0ad7bc7e4914b294bcee733bb2ee",
+                "video_preloading_flag": 0,
+                "video_type": 0,
+                "video_watch_count": 153441,
+                "video_watching_count": 0
+            },
+            "video_duration": 152,
+            "video_id": "f52e0ad7bc7e4914b294bcee733bb2ee",
+            "video_style": 0
+        },
+        {
+            "abstract": "黄宗泽渣男经典语录，一个有本事的男人，怎么会只有一个女人？",
+            "action_extra": "{"channel_id": 3431225546}",
+            "action_list": [
+                {
+                    "action": 1,
+                    "desc": "",
+                    "extra": {}
+                },
+                {
+                    "action": 3,
+                    "desc": "",
+                    "extra": {}
+                },
+                {
+                    "action": 7,
+                    "desc": "",
+                    "extra": {}
+                },
+                {
+                    "action": 9,
+                    "desc": "",
+                    "extra": {}
+                }
+            ],
+            "aggr_type": 1,
+            "article_sub_type": 0,
+            "article_type": 0,
+            "article_url": "http://toutiao.com/group/6375270898177802498/",
+            "ban_comment": 0,
+            "behot_time": 1484364432,
+            "bury_count": 0,
+            "cell_flag": 11,
+            "cell_layout_style": 1,
+            "cell_type": 0,
+            "comment_count": 1,
+            "cursor": 1484364432998,
+            "digg_count": 2,
+            "display_url": "http://toutiao.com/group/6375270898177802498/",
+            "filter_words": [
+                {
+                    "id": "8:0",
+                    "is_selected": false,
+                    "name": "重复推荐"
+                },
+                {
+                    "id": "9:1",
+                    "is_selected": false,
+                    "name": "视频质量差"
+                },
+                {
+                    "id": "5:575358160",
+                    "is_selected": false,
+                    "name": "来源:非聊娱乐"
+                },
+                {
+                    "id": "6:38161",
+                    "is_selected": false,
+                    "name": "经典语录"
+                },
+                {
+                    "id": "6:15661",
+                    "is_selected": false,
+                    "name": "黄宗泽"
+                }
+            ],
+            "group_flags": 32832,
+            "group_id": 6375270898177802498,
+            "has_image": false,
+            "has_m3u8_video": 0,
+            "has_mp4_video": 0,
+            "has_video": true,
+            "hot": 0,
+            "ignore_web_transform": 1,
+            "image_list": [],
+            "is_subject": false,
+            "item_id": 6375073414079578626,
+            "item_version": 0,
+            "keywords": "女人,黄宗泽,经典语录",
+            "large_image_list": [
+                {
+                    "height": 326,
+                    "uri": "video1609/14d700063cfefc84b380",
+                    "url": "http://p2.pstatp.com/video1609/14d700063cfefc84b380",
+                    "url_list": [
+                        {
+                            "url": "http://p2.pstatp.com/video1609/14d700063cfefc84b380"
+                        },
+                        {
+                            "url": "http://p4.pstatp.com/video1609/14d700063cfefc84b380"
+                        },
+                        {
+                            "url": "http://p.pstatp.com/video1609/14d700063cfefc84b380"
+                        }
+                    ],
+                    "width": 580
+                }
+            ],
+            "level": 0,
+            "like_count": 2,
+            "media_info": {
+                "avatar_url": "http://p3.pstatp.com/large/97d001a1d2c0c05cf15",
+                "follow": false,
+                "is_star_user": false,
+                "media_id": 50064779872,
+                "name": "非聊娱乐",
+                "recommend_reason": "",
+                "recommend_type": 0,
+                "user_id": 50007854860,
+                "user_verified": false,
+                "verified_content": ""
+            },
+            "media_name": "非聊娱乐",
+            "middle_image": {
+                "height": 358,
+                "uri": "list/14d700063cfefc84b380",
+                "url": "http://p2.pstatp.com/list/14d700063cfefc84b380",
+                "url_list": [
+                    {
+                        "url": "http://p2.pstatp.com/list/14d700063cfefc84b380"
+                    },
+                    {
+                        "url": "http://p4.pstatp.com/list/14d700063cfefc84b380"
+                    },
+                    {
+                        "url": "http://p.pstatp.com/list/14d700063cfefc84b380"
+                    }
+                ],
+                "width": 640
+            },
+            "preload_web": 0,
+            "publish_time": 1484359644,
+            "read_count": 170,
+            "repin_count": 4,
+            "rid": "20170114112714010003048160606EC4",
+            "share_url": "http://toutiao.com/a6375270898177802498/?iid=3839760160&app=news_article",
+            "show_portrait": false,
+            "show_portrait_article": false,
+            "source": "非聊娱乐",
+            "source_icon_style": 5,
+            "source_open_url": "sslocal://media_account?media_id=50064779872",
+            "tag": "video_voice",
+            "tag_id": 6375270898177802498,
+            "tip": 0,
+            "title": "黄宗泽渣男经典语录，一个有本事的男人，怎么会只有一个女人？",
+            "url": "http://toutiao.com/group/6375270898177802498/",
+            "user_info": {
+                "avatar_url": "http://p3.pstatp.com/thumb/97d001a1d2c0c05cf15",
+                "description": "",
+                "follow": false,
+                "follower_count": 0,
+                "name": "非聊娱乐",
+                "user_id": 50007854860,
+                "user_verified": false,
+                "verified_content": ""
+            },
+            "user_repin": 0,
+            "user_verified": 0,
+            "verified_content": "",
+            "video_detail_info": {
+                "detail_video_large_image": {
+                    "height": 326,
+                    "uri": "video1609/14d700063cfefc84b380",
+                    "url": "http://p2.pstatp.com/video1609/14d700063cfefc84b380",
+                    "url_list": [
+                        {
+                            "url": "http://p2.pstatp.com/video1609/14d700063cfefc84b380"
+                        },
+                        {
+                            "url": "http://p4.pstatp.com/video1609/14d700063cfefc84b380"
+                        },
+                        {
+                            "url": "http://p.pstatp.com/video1609/14d700063cfefc84b380"
+                        }
+                    ],
+                    "width": 580
+                },
+                "direct_play": 1,
+                "group_flags": 32832,
+                "show_pgc_subscribe": 1,
+                "video_id": "86d5dda73c0a4815a69a39a90f07faa0",
+                "video_preloading_flag": 0,
+                "video_type": 0,
+                "video_watch_count": 574,
+                "video_watching_count": 0
+            },
+            "video_duration": 194,
+            "video_id": "86d5dda73c0a4815a69a39a90f07faa0",
+            "video_style": 0
+        },
+        {
+            "abstract": "",
+            "action_extra": "{"channel_id": 3431225546}",
+            "action_list": [
+                {
+                    "action": 1,
+                    "desc": "",
+                    "extra": {}
+                },
+                {
+                    "action": 3,
+                    "desc": "",
+                    "extra": {}
+                },
+                {
+                    "action": 7,
+                    "desc": "",
+                    "extra": {}
+                },
+                {
+                    "action": 9,
+                    "desc": "",
+                    "extra": {}
+                }
+            ],
+            "aggr_type": 1,
+            "article_sub_type": 0,
+            "article_type": 0,
+            "article_url": "http://toutiao.com/group/6366903940349460738/",
+            "ban_comment": 0,
+            "behot_time": 1484364432,
+            "bury_count": 48,
+            "cell_flag": 11,
+            "cell_layout_style": 1,
+            "cell_type": 0,
+            "comment_count": 333,
+            "cursor": 1484364432997,
+            "digg_count": 415,
+            "display_url": "http://toutiao.com/group/6366903940349460738/",
+            "filter_words": [
+                {
+                    "id": "8:0",
+                    "is_selected": false,
+                    "name": "重复推荐"
+                },
+                {
+                    "id": "9:1",
+                    "is_selected": false,
+                    "name": "视频质量差"
+                },
+                {
+                    "id": "5:621453383",
+                    "is_selected": false,
+                    "name": "来源:老歌回忆"
+                },
+                {
+                    "id": "6:48377",
+                    "is_selected": false,
+                    "name": "孟庭苇"
+                },
+                {
+                    "id": "6:15789",
+                    "is_selected": false,
+                    "name": "演唱会"
+                }
+            ],
+            "group_flags": 32832,
+            "group_id": 6366903940349460738,
+            "has_image": false,
+            "has_m3u8_video": 0,
+            "has_mp4_video": 0,
+            "has_video": true,
+            "hot": 0,
+            "ignore_web_transform": 1,
+            "image_list": [],
+            "is_subject": false,
+            "item_id": 6366905190146114049,
+            "item_version": 0,
+            "large_image_list": [
+                {
+                    "height": 326,
+                    "uri": "video1609/12f2000d9a7e0272416b",
+                    "url": "http://p3.pstatp.com/video1609/12f2000d9a7e0272416b",
+                    "url_list": [
+                        {
+                            "url": "http://p3.pstatp.com/video1609/12f2000d9a7e0272416b"
+                        },
+                        {
+                            "url": "http://p6.pstatp.com/video1609/12f2000d9a7e0272416b"
+                        },
+                        {
+                            "url": "http://p.pstatp.com/video1609/12f2000d9a7e0272416b"
+                        }
+                    ],
+                    "width": 580
+                }
+            ],
+            "level": 0,
+            "like_count": 415,
+            "media_info": {
+                "avatar_url": "http://p1.pstatp.com/large/e59000566ea5a2826ee",
+                "follow": false,
+                "is_star_user": false,
+                "media_id": 51653533990,
+                "name": "老歌回忆",
+                "recommend_reason": "",
+                "recommend_type": 0,
+                "user_id": 51654937911,
+                "user_verified": false,
+                "verified_content": ""
+            },
+            "media_name": "老歌回忆",
+            "middle_image": {
+                "height": 360,
+                "uri": "list/12f2000d9a7e0272416b",
+                "url": "http://p3.pstatp.com/list/12f2000d9a7e0272416b",
+                "url_list": [
+                    {
+                        "url": "http://p3.pstatp.com/list/12f2000d9a7e0272416b"
+                    },
+                    {
+                        "url": "http://p6.pstatp.com/list/12f2000d9a7e0272416b"
+                    },
+                    {
+                        "url": "http://p.pstatp.com/list/12f2000d9a7e0272416b"
+                    }
+                ],
+                "width": 640
+            },
+            "preload_web": 0,
+            "publish_time": 1482410633,
+            "read_count": 90322,
+            "repin_count": 2431,
+            "rid": "20170114112714010003048160606EC4",
+            "share_url": "http://toutiao.com/a6366903940349460738/?iid=3839760160&app=news_article",
+            "show_portrait": false,
+            "show_portrait_article": false,
+            "source": "老歌回忆",
+            "source_icon_style": 6,
+            "source_open_url": "sslocal://media_account?media_id=51653533990",
+            "tag": "video_voice",
+            "tag_id": 6366903940349460738,
+            "tip": 0,
+            "title": "《谁的眼泪在飞》孟庭苇演唱会现场版",
+            "url": "http://toutiao.com/group/6366903940349460738/",
+            "user_info": {
+                "avatar_url": "http://p3.pstatp.com/thumb/e59000566ea5a2826ee",
+                "description": "",
+                "follow": false,
+                "follower_count": 0,
+                "name": "老歌回忆",
+                "user_id": 51654937911,
+                "user_verified": false,
+                "verified_content": ""
+            },
+            "user_repin": 0,
+            "user_verified": 0,
+            "verified_content": "",
+            "video_detail_info": {
+                "detail_video_large_image": {
+                    "height": 326,
+                    "uri": "video1609/12f2000d9a7e0272416b",
+                    "url": "http://p3.pstatp.com/video1609/12f2000d9a7e0272416b",
+                    "url_list": [
+                        {
+                            "url": "http://p3.pstatp.com/video1609/12f2000d9a7e0272416b"
+                        },
+                        {
+                            "url": "http://p6.pstatp.com/video1609/12f2000d9a7e0272416b"
+                        },
+                        {
+                            "url": "http://p.pstatp.com/video1609/12f2000d9a7e0272416b"
+                        }
+                    ],
+                    "width": 580
+                },
+                "direct_play": 1,
+                "group_flags": 32832,
+                "show_pgc_subscribe": 1,
+                "video_id": "6cf553fd853b4ae79b1768829a604956",
+                "video_preloading_flag": 0,
+                "video_type": 0,
+                "video_watch_count": 234060,
+                "video_watching_count": 0
+            },
+            "video_duration": 295,
+            "video_id": "6cf553fd853b4ae79b1768829a604956",
+            "video_style": 0
+        }
+    ],
+    "feed_flag": 0,
+    "has_more": false,
+    "has_more_to_refresh": true,
+    "login_status": 0,
+    "message": "success",
+    "post_content_hint": "分享「视频」的新鲜事",
+    "show_et_status": 0,
+    "tips": {
+        "app_name": "今日头条",
+        "display_duration": 2,
+        "display_info": "今日头条推荐引擎有8条更新",
+        "display_template": "今日头条推荐引擎有%s条更新",
+        "download_url": "",
+        "open_url": "",
+        "package_name": "",
+        "type": "app",
+        "web_url": ""
+    },
+    "total_number": 8
+}
